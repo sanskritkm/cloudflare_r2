@@ -15,6 +15,9 @@ For now only **get [object, size]/put/delete/list object** Object on R2 Bucket
 | Get Presigned Url |
 | Put Presigned Url |
 
+### Tips
+*when you use get presignet url, you are making use of the CDN, so the download will be more fast*
+
 ## Getting Started
 
 Check the Example
